@@ -1,1 +1,1 @@
-# blank-repo
+Sample org structure for application catalog
